@@ -1,6 +1,6 @@
 {
-    "name": "clinic",
-    "short_name": "clinic",
+    "name": "dentme_desktop",
+    "short_name": "dentme_desktop",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
